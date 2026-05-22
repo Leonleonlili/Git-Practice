@@ -35,3 +35,5 @@ outputs/
 *.ckpt
 *.safetensors
 *.bin
+
+local_config.txt
